@@ -100,7 +100,7 @@ OPEN [MAIN_APP.java](./src/main/java/shop/Main_App.java#L22) RUN WITH JAVA
    <th style="text-align: center">run with maven (<em style='color: #ff0000'>!WARNING</em>)</th>
    <th style="text-align: center">Build source to LOCAL(.../m2/repository)</th>
 </tr>
-<tr style="color: #ff9600;">
+<tr style="color:blue">
    <td>mvn compile exec:java</td>
    <td>
    - B1: Open file <a href='./src/main/java/shop/Main_App.java'>Main_App.java</a><br>
