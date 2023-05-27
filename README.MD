@@ -1,5 +1,6 @@
 # SHOP MANAGEMENT APP
 
+Project implementation guide [Netbean IDE https://youtu.be/64qBbOJ6r5w](https://youtu.be/64qBbOJ6r5w)
 
 ## GUIDE
 - setup java > [setup jdk and maven](https://youtu.be/vm3W-KsFnrE)<br>
