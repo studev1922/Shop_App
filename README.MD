@@ -1,7 +1,7 @@
 # SHOP MANAGEMENT APP
 
 ## INSTRUCT
-[![Git clone ecommerce](https://img.youtube.com/vi/64qBbOJ6r5w/maxresdefault.jpg)](https://youtu.be/64qBbOJ6r5w)
+[![Git clone shop_app](https://img.youtube.com/vi/ZZ3-H1e_8kE/maxresdefault.jpg)](https://youtu.be/ZZ3-H1e_8kE)
 
 ## GUIDE
 - setup java > [setup jdk and maven](https://youtu.be/vm3W-KsFnrE)<br>
