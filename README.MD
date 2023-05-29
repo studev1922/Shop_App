@@ -1,6 +1,6 @@
 # SHOP MANAGEMENT APP
 
-## INSTRUCT
+## INSTRUCTION
 [![Git clone shop_app](https://img.youtube.com/vi/64qBbOJ6r5w/maxresdefault.jpg)](https://youtu.be/64qBbOJ6r5w)
 
 ## GUIDE
