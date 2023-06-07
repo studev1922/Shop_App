@@ -35,16 +35,16 @@ OPEN [MAIN_APP.java](./src/main/java/shop/Main_App.java#L22) RUN WITH JAVA
 
 ```
 cd /d [...project location]/Shop_App
-``` <br>
+```
 ```
 sqlcmd -f 65001 -i db_mssql_SHOP.sql
-``` <br>
+```
 ```
 mvn dependency:get
-``` <br>
+```
 ```
 mvn clean | mvn package
-``` <br> 
+```
 ```
 mvn exec:java
 ```
