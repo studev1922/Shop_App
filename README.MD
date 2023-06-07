@@ -30,6 +30,11 @@ point to project: cd [PATH TO THE PROJECT]/Shop_App<br>
 OPEN [MAIN_APP.java](./src/main/java/shop/Main_App.java#L22) RUN WITH JAVA
 <hr>
 
+## QUICK START WITH MAVEN
+> 1st. mvn dependency:get
+> 2nd. mvn clean | mvn package 
+> 3rd. mvn exec:java
+
 ## DEPLOY PROJECT AND BUILD SOURCE
 
 > CHECK REQUIREMENTS:
