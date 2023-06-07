@@ -31,6 +31,7 @@ OPEN [MAIN_APP.java](./src/main/java/shop/Main_App.java#L22) RUN WITH JAVA
 <hr>
 
 ## QUICK START WITH MAVEN
+> `cd [...project location]/Shop_App` <br>
 S1. `mvn dependency:get` <br>
 S2. `mvn clean | mvn package` <br> 
 S3. `mvn exec:java`
