@@ -33,7 +33,7 @@ OPEN [MAIN_APP.java](./src/main/java/shop/Main_App.java#L22) RUN WITH JAVA
 ## QUICK START WITH MAVEN
 <h5>Open <em>command prompt</em> and <em>run as administrator</em></h5>
 
-S1. `cd [...project location]/Shop_App` <br>
+S1. `cd /d [...project location]/Shop_App` <br>
 S2. `sqlcmd -f 65001 -i db_mssql_SHOP.sql` <br>
 S3. `mvn dependency:get` <br>
 S4. `mvn clean | mvn package` <br> 
