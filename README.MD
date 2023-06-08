@@ -99,7 +99,6 @@ mvn exec:java
    <td style="color: #ff9600;">
       <ul>
          <li>mvn clean compile assembly:single</li>
-         <hr style="color: #ffffff">
          <li>java -jar target/Shop_App-1.0-SNAPSHOT-jar-with-dependencies.jar</li>
       </ul>
    </td>
